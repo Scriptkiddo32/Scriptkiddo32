@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HpInkJet67,im 16
+- 👋 Hi, I’m @HpInkJet69,im 16
 - 👀 I’m interested in: eventualy getting a cyber job later in life
 - 🌱 I’m currently learning? system architecture through the book "Operating systems in 3 easy step", learning how to use github for
 things other thna stealing code and python scripting
